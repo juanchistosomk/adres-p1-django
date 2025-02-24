@@ -4,6 +4,8 @@
 
 Este es un proyecto Django desarrollado como parte de una prueba técnica. La aplicación permite cargar un archivo `.txt` con datos separados por comas y realiza validaciones sobre los datos. Realice tambien TESTs de calidad.
 
+![Logo del proyecto](https://iili.io/3JHevfI.md.png)
+
 ## Características
 
 - Carga de archivos `.txt`.
