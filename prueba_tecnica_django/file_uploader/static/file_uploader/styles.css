@@ -1,0 +1,28 @@
+body {
+  background-color: #ccc;
+}
+
+h1 {
+  color: #32b1a5;
+}
+
+.custom-title {
+  color: #003366;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.custom-container {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.btn-custom {
+  background-color: #003366;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+  background-color: #002244;
+}
